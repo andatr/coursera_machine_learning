@@ -1,2 +1,2 @@
-# coursera_machine_learning
+# Coursera's Machine-Learning course exercies
 https://www.coursera.org/learn/machine-learning
