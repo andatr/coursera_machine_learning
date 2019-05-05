@@ -1,0 +1,1 @@
+exercise 8: anomaly detection and recommender systems
